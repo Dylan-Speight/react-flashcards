@@ -1,0 +1,75 @@
+{
+    "cards": [{
+            "eng": "hello",
+            "fre": "bonjour",
+            "pron": "bonjour"
+
+        },
+        {
+            "eng": "hello2",
+            "fre": "bonjour",
+            "pron": "bonjour"
+
+        },
+        {
+            "eng": "hello3",
+            "fre": "bonjour",
+            "pron": "bonjour"
+
+        },
+        {
+            "eng": "hello4",
+            "fre": "bonjour",
+            "pron": "bonjour"
+
+        },
+        {
+            "eng": "hello5",
+            "fre": "bonjour",
+            "pron": "bonjour"
+
+        },
+        {
+            "eng": "hello6",
+            "fre": "bonjour",
+            "pron": "bonjour"
+
+        },
+        {
+            "eng": "hello7",
+            "fre": "bonjour",
+            "pron": "bonjour"
+
+        },
+        {
+            "eng": "hello8",
+            "fre": "bonjour",
+            "pron": "bonjour"
+
+        },
+        {
+            "eng": "hello9",
+            "fre": "bonjour",
+            "pron": "bonjour"
+
+        },
+        {
+            "eng": "hello10",
+            "fre": "bonjour",
+            "pron": "bonjour"
+
+        },
+        {
+            "eng": "hello11",
+            "fre": "bonjour",
+            "pron": "bonjour"
+
+        },
+        {
+            "eng": "hello12",
+            "fre": "bonjour",
+            "pron": "bonjour"
+
+        }
+    ]
+}
